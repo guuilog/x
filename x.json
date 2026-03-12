@@ -1,3 +1,5 @@
 {
-  "x": "0xC060DC"
+  "DummyClass": {
+    "dwSomeVisibilityXor": 12658492
+  }
 }
